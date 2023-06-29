@@ -1,0 +1,4 @@
+voy a escribir cosas en un archivo >y voy a seguir escribiendo > entrega5.txt hay que cerrar con
+git status
+
+hay que cerrar con
